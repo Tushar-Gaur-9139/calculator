@@ -1,7 +1,7 @@
 
         body {
             font-family: Arial, sans-serif;
-            /* background: linear-gradient(to right, #4facfe, #00f2fe); */
+            background: tomato;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -10,7 +10,7 @@
         }
 
         .calculator {
-            background-color: #ffffff;
+            background-color: grey;
             padding: 20px;
             border-radius: 16px;
             box-shadow: 0 8px 16px rgba(0,0,0,0.1);
